@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Mohit
-- 👀 I’m interested in Python, GCP, Data Engineering
+- 👋 Hi, This is Mohit.
+- 👀 I work in Big Data, Python, GCP, Data Engineering, Terraform, IaaS.
 - 🌱 I’m currently learning them all.
-- 💞️ I’m looking to collaborate on the same.
-- 📫 How to reach me @MohitDcode 
+- 💞️ Looking to collaborate on the same.
+- 📫 Reach me on @MohitDcode.
 
 <!---
 MohitDcode/MohitDcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
