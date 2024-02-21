@@ -1,5 +1,5 @@
 - 👋 Hi, This is Mohit.
-- 👀 I work in Big Data, Python, GCP, Data Engineering, Terraform, IaaS.
+- 👀 I work on Big Data, Python, GCP, Data Engineering, Terraform, IaaS.
 - 🌱 I’m currently learning them all.
 - 💞️ Looking to collaborate on the same.
 - 📫 Reach me on @MohitDcode.
